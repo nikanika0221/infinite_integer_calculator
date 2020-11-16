@@ -1,0 +1,1 @@
+The project reads the file and makes operations line by line as written in .txt file, you have to change the directory of the file before launching the project otherwise file will not e found.

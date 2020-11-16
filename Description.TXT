@@ -1,0 +1,3 @@
+This Project Takes input from a text file and makes operations, the main point of this project is that
+the program uses arrays to save every digit, so the number can have as many digits as array elements
+hold. (0-9) is hold at any index of array. 
